@@ -8,8 +8,15 @@ using the **wupsolute** kernel
 
 # How to Setup
 > [!CAUTION]
-> The only official places to install the **wubOS iso image file** is this GitHub repo. NEVER install it from any other places. Be aware.
+> The only official places to download the **wubOS iso image file** is this GitHub repo. NEVER install it from any other places. Be aware.
 
 To install **wubOS**, go ahead to [Releases](https://github.com/thousuza/wubOS/releases) and grab the lastest iso.
-> [!NOTE]
-> The only supported bit is x64.
+Note that only x64 is supported.
+
+And now after booting it up, you will be booted in as:
+`wub!guest /> `
+
+Run `os.install` to go into the installer. Follow the steps.
+And finish! Yay!
+
+For a list of commands, run `cmd.list`.
