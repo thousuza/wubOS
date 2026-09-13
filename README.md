@@ -14,8 +14,9 @@ To install **wubOS**, go ahead to [Releases](https://github.com/thousuza/wubOS/r
 Note that only x64 is supported.
 
 And now after booting it up, you will be booted in as:
-`wub!guest /> `
-
+```
+wub!guest /> 
+```
 Run `os.install` to go into the installer. Follow the steps.
 And finish! Yay!
 
