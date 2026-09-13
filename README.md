@@ -20,4 +20,7 @@ wub!guest />
 Run `os.install` to go into the installer. Follow the steps.
 And finish! Yay!
 
+> [!NOTE]
+> In case if you're running this inside a VM, especially **VirtualBox**, please run `vmvb.sup` before running `os.install`.
+
 For a list of commands, run `cmd.list`.
